@@ -29,7 +29,7 @@ global style class: tenor happy
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/ori/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/ori/001.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -43,9 +43,9 @@ global style class: tenor happy
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/ref/001.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/styler/001.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/speech/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/ref/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/styler/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/speech/001.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -60,9 +60,9 @@ global style class: tenor happy
 	</thead>
 	<tbody>
 		<tr>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/yourtts/001.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/rms/001.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/styesinger/001.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/yourtts/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/rms/001.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/styesinger/001.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -79,7 +79,7 @@ global style class: alto sad
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/ori/002.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/ori/002.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -93,9 +93,9 @@ global style class: alto sad
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/ref/002.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/styler/002.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/speech/002.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/ref/002.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/styler/002.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/speech/002.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -110,9 +110,9 @@ global style class: alto sad
 	</thead>
 	<tbody>
 		<tr>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/yourtts/002.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/rms/002.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/styesinger/002.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/yourtts/002.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/rms/002.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/styesinger/002.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -129,7 +129,7 @@ global style class: alto sad
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/ori/003.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/ori/003.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -143,9 +143,9 @@ global style class: alto sad
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/ref/003.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/styler/003.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/speech/003.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/ref/003.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/styler/003.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/speech/003.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -160,9 +160,9 @@ global style class: alto sad
 	</thead>
 	<tbody>
 		<tr>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/yourtts/003.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/rms/003.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/parallel/styesinger/003.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/yourtts/003.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/rms/003.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/parallel/styesinger/003.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -184,7 +184,7 @@ Effectively capturing the timbre, emotion, pitch transitions, vocal techniques, 
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/ref/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/ref/001.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -200,9 +200,9 @@ Target: 吹向我脸庞 AP 想起你轻柔的话语 AP 曾打湿我眼眶 AP
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/styler/001.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/generspeech/001.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/yourtts/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/styler/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/generspeech/001.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/yourtts/001.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -216,8 +216,8 @@ Target: 吹向我脸庞 AP 想起你轻柔的话语 AP 曾打湿我眼眶 AP
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/rmssinger/001.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/stylesinger/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/rmssinger/001.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/stylesinger/001.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -235,7 +235,7 @@ Successfully transferring the timbre, emotion, vocal techniques, and subtle elon
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/ref/002.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/ref/002.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -251,9 +251,9 @@ Target: 幸福没有那么容易 AP 才会特别让人着迷 AP 什么都不懂�
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/styler/002.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/generspeech/002.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/yourtts/002.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/styler/002.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/generspeech/002.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/yourtts/002.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -267,8 +267,8 @@ Target: 幸福没有那么容易 AP 才会特别让人着迷 AP 什么都不懂�
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/rmssinger/002.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/stylesinger/002.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/rmssinger/002.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/stylesinger/002.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -286,7 +286,7 @@ Successfully transferring the timbre, emotion, vocal techniques, vibrato skill, 
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/ref/003.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/ref/003.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -302,9 +302,9 @@ Target: 修炼爱情的心酸 AP 学会放好以前的渴望 AP 我们那些信�
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/styler/003.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/generspeech/003.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/yourtts/003.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/styler/003.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/generspeech/003.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/yourtts/003.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -318,8 +318,8 @@ Target: 修炼爱情的心酸 AP 学会放好以前的渴望 AP 我们那些信�
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/rmssinger/003.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/nonparallel/stylesinger/003.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/rmssinger/003.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/nonparallel/stylesinger/003.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -343,7 +343,7 @@ global style class: alto sad
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/ablation/ori/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/ablation/ori/001.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -358,9 +358,9 @@ global style class: alto sad
 	</thead>
 	<tbody>
 		<tr>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/ablation/ref/001.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/ablation/stylesinger/001.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/ablation/wo umln/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/ablation/ref/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/ablation/stylesinger/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/ablation/wo umln/001.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -375,9 +375,9 @@ global style class: alto sad
 	</thead>
 	<tbody>
 		<tr>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/ablation/wo dsa/001.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/ablation/wo ppdp/001.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/ablation/wo decoder/001.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/ablation/wo dsa/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/ablation/wo ppdp/001.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/ablation/wo decoder/001.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
@@ -392,9 +392,9 @@ global style class: alto sad
 	</thead>
 	<tbody>
 		<tr>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/ablation/wo rq/001.wav" type="audio/wav"></audio></td>
-			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/ablation/mix-layer/001.wav" type="audio/wav"></audio></td>
-      			<td style="text-align: center"><audio controls style="width: 150px;"><source src="wavs/ablation/rmssinger/001.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/ablation/wo rq/001.wav" type="audio/wav"></audio></td>
+			<td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/ablation/mix-layer/001.wav" type="audio/wav"></audio></td>
+                <td style="text-align: center"><audio preload="none" controls style="width: 150px;"><source src="wavs/ablation/rmssinger/001.wav" type="audio/wav"></audio></td>
 		</tr>
 	</tbody>
 </table>
