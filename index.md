@@ -399,3 +399,22 @@ global style class: alto sad
 	</tbody>
 </table>
 
+# Citation
+
+<div class="citation-block">
+  <button type="button" class="citation-copy">Copy BibTeX</button><span class="citation-status" role="status"></span>
+  <pre><code>@article{Zhang_2024,
+  title = {StyleSinger: Style Transfer for Out-of-Domain Singing Voice Synthesis},
+  volume = {38},
+  ISSN = {2159-5399},
+  url = {http://dx.doi.org/10.1609/aaai.v38i17.29932},
+  DOI = {10.1609/aaai.v38i17.29932},
+  number = {17},
+  journal = {Proceedings of the AAAI Conference on Artificial Intelligence},
+  publisher = {Association for the Advancement of Artificial Intelligence (AAAI)},
+  author = {Zhang, Yu and Huang, Rongjie and Li, Ruiqi and He, JinZheng and Xia, Yan and Chen, Feiyang and Duan, Xinyu and Huai, Baoxing and Zhao, Zhou},
+  year = {2024},
+  month = Mar,
+  pages = {19597–19605}
+}</code></pre>
+</div>
